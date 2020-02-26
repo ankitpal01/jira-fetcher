@@ -1,5 +1,5 @@
 # jira-fetcher
-A useful utility to be used in a team. It fetches the jiras based upon your jira filters and mails to desired stakeholders.
+A useful utility to be used in a team. It fetches the jiras based upon your jira filters and mails to desired stakeholders. You can set it up in jenkins or via some other scheduler to trigger automatically. It has been very useful in my team as every morning we just have to refer to this automated email to know what are our today's allocation instead of refering to different jira tickets/boards.
 
 # Dependencies:
 You would need to install python3 to make it work
@@ -66,10 +66,7 @@ If you wish, then you can also employ the attached <b><i>jiras_mailer.bat</b></i
 
 
 
-You can set it up in jenkins or via some other scheduler to trigger automatically. It has been very useful in our team as every morning we just have to refer to this automated email to know what are our today's allocation. 
-
-
-
+<h4> footnote </h4>
 <i>In case you have any suggestion please feel free to report. I would try to take those up as soon as I can.
 
 Thanks and dont forget to star my github page if you find it useful.</i>
