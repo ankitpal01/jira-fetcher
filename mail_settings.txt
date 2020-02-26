@@ -1,0 +1,3 @@
+mail_subject | JIRA Snapshot - TRUNK Board
+board_header | Trunk Board
+recepients | first_recepient@iongroup.com;second_recepient@iongroup.com;

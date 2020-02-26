@@ -1,0 +1,1 @@
+C:\Users\.......\Python\Python36-32\python.exe "C:\Users\.........\NewRunner.py" %CD%

@@ -1,0 +1,3 @@
+John | project = ABCD AND status in ("Ready for Test", "Test in Progress") AND assignee = John ORDER BY fixVersion DESC
+Mark | project = ABCD AND status in ("Ready for Test", "Test in Progress") AND assignee = Mark ORDER BY fixVersion DESC
+Unassigned User | project = ABCD AND status in ("Ready for Test", "Test in Progress") AND assignee = unassigned  ORDER BY fixVersion DESC
